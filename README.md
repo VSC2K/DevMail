@@ -1,4 +1,6 @@
-# React + Vite
+# DevMail + (React + Vite)
+
+Project developed in the OneBitCode course on TailwindCSS.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
